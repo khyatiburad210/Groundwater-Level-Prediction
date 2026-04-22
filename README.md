@@ -99,6 +99,6 @@ To use the trained model for prediction on new data:
 
 ---
 
-**Author:** Camilo Mejía
+**Author:** Khyati Burad
 
 **License:** This project is licensed under the GNU GENERAL PUBLIC LICENSE.
